@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Explorers Watch</string>
+    <string name="hardware_resource_lacking">Direction unavailable due to lack of hardware</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
